@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-sheduler/static/css/main.10cceac8.chunk.css",
+    "main.js": "/my-sheduler/static/js/main.c7d75859.chunk.js",
+    "main.js.map": "/my-sheduler/static/js/main.c7d75859.chunk.js.map",
+    "runtime-main.js": "/my-sheduler/static/js/runtime-main.3ad47511.js",
+    "runtime-main.js.map": "/my-sheduler/static/js/runtime-main.3ad47511.js.map",
+    "static/js/2.5a4e5ae9.chunk.js": "/my-sheduler/static/js/2.5a4e5ae9.chunk.js",
+    "static/js/2.5a4e5ae9.chunk.js.map": "/my-sheduler/static/js/2.5a4e5ae9.chunk.js.map",
+    "index.html": "/my-sheduler/index.html",
+    "precache-manifest.c688264858cd08c510898061865b16dd.js": "/my-sheduler/precache-manifest.c688264858cd08c510898061865b16dd.js",
+    "service-worker.js": "/my-sheduler/service-worker.js",
+    "static/css/main.10cceac8.chunk.css.map": "/my-sheduler/static/css/main.10cceac8.chunk.css.map",
+    "static/js/2.5a4e5ae9.chunk.js.LICENSE.txt": "/my-sheduler/static/js/2.5a4e5ae9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ad47511.js",
+    "static/js/2.5a4e5ae9.chunk.js",
+    "static/css/main.10cceac8.chunk.css",
+    "static/js/main.c7d75859.chunk.js"
+  ]
+}
