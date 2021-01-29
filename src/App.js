@@ -1,22 +1,20 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './App.css';
 import Section1 from "./Components/Section1";
 require("dotenv").config();
 
 
+
+//const [ page, setPage ] = useState();
+
+
+
 var gapi = window.gapi;
-/* 
-  Update with your own Client Id and Api key 
-*/
-
-
 var DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"];
-
-  var SCOPES = "https://www.googleapis.com/auth/calendar.events"
+var SCOPES = "https://www.googleapis.com/auth/calendar.events"
 
 
 const handleClick = () => {
-
   gapi.load('client:auth2', () => {
     console.log('loaded client')
 
@@ -28,7 +26,6 @@ const handleClick = () => {
     })
 
     gapi.client.load('calendar', 'v3', () => console.log('bam!'))
-
     gapi.auth2.getAuthInstance().signIn()
     .then(() => {
       
@@ -59,12 +56,10 @@ const handleClick = () => {
           ]
         }
       }
-
       var request = gapi.client.calendar.events.insert({
         'calendarId': 'primary',
         'resource': event,
       })
-
       request.execute(event => {
         console.log(event)
         window.open(event.htmlLink)
@@ -93,11 +88,18 @@ const handleClick = () => {
 }
 
 
+const handleChange = (e)=>{
+  if(e === "prev"){
+  }
+  if(e === "next"){
+  }
+}
+
 function App() {
   return (
     <div className="App">
         <button onClick={handleClick}>click</button>
-      < Section1 />
+      < Section1 handleChange={handleChange}/>
     </div>
   );
 }

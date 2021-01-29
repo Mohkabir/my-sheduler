@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Section1() {
+function Section1({handleChange}) {
   return (
     <div className="section1">
       <div className="header">
@@ -38,8 +38,8 @@ function Section1() {
         <input type="text"placeholder="description"/>
       </div>
       <div className="pageChange">
-        <button>previous</button>
-        <button>next</button>
+        <button onClick={()=> handleChange("prev")}>previous</button>
+        <button onClick={()=> handleChange("next")}>next</button>
       </div>
     </div>
   )
