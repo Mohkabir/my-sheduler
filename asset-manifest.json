@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-sheduler/static/css/main.db8a1b02.chunk.css",
-    "main.js": "/my-sheduler/static/js/main.f8e621dd.chunk.js",
-    "main.js.map": "/my-sheduler/static/js/main.f8e621dd.chunk.js.map",
+    "main.css": "/my-sheduler/static/css/main.f565fefa.chunk.css",
+    "main.js": "/my-sheduler/static/js/main.0a1c7aad.chunk.js",
+    "main.js.map": "/my-sheduler/static/js/main.0a1c7aad.chunk.js.map",
     "runtime-main.js": "/my-sheduler/static/js/runtime-main.3ad47511.js",
     "runtime-main.js.map": "/my-sheduler/static/js/runtime-main.3ad47511.js.map",
     "static/js/2.6b4ca7b1.chunk.js": "/my-sheduler/static/js/2.6b4ca7b1.chunk.js",
     "static/js/2.6b4ca7b1.chunk.js.map": "/my-sheduler/static/js/2.6b4ca7b1.chunk.js.map",
     "index.html": "/my-sheduler/index.html",
-    "precache-manifest.6a19f229da6343c98274f25854d13a2b.js": "/my-sheduler/precache-manifest.6a19f229da6343c98274f25854d13a2b.js",
+    "precache-manifest.5c5e43ae5f0a694f3dfdceab2d62a24a.js": "/my-sheduler/precache-manifest.5c5e43ae5f0a694f3dfdceab2d62a24a.js",
     "service-worker.js": "/my-sheduler/service-worker.js",
-    "static/css/main.db8a1b02.chunk.css.map": "/my-sheduler/static/css/main.db8a1b02.chunk.css.map",
+    "static/css/main.f565fefa.chunk.css.map": "/my-sheduler/static/css/main.f565fefa.chunk.css.map",
     "static/js/2.6b4ca7b1.chunk.js.LICENSE.txt": "/my-sheduler/static/js/2.6b4ca7b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3ad47511.js",
     "static/js/2.6b4ca7b1.chunk.js",
-    "static/css/main.db8a1b02.chunk.css",
-    "static/js/main.f8e621dd.chunk.js"
+    "static/css/main.f565fefa.chunk.css",
+    "static/js/main.0a1c7aad.chunk.js"
   ]
 }
