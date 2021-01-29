@@ -1,1 +1,0 @@
-{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAEA,KACE,oBAAqB,CACrB,SAAU,CACV,WAAiB","file":"main.10cceac8.chunk.css","sourcesContent":["\r\n\r\n.App{\r\n  background-color: red;\r\n  width: 40%;\r\n  margin: auto auto;\r\n}"]}
