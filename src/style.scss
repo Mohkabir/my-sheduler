@@ -1,0 +1,68 @@
+
+
+.App{
+  background-color: rgb(27, 3, 3);
+  color: aliceblue;
+  width: 50%;
+  border-radius: 20px;
+  margin: 5em auto;
+  position: relative;
+  .section1{
+    padding: 0 2em;
+    .header{
+      background-color: beige;
+      color: blue;
+      margin: 0 auto;
+      width: 70%;
+      border-radius: 5px;
+      text-align: center;
+      
+    }
+    .time{
+      span{
+        font-size: 1.3em;
+      }
+      .flex{
+      
+      }
+      input{
+        margin: 0 1em;
+        color: black;
+      }
+      .start{
+        display: flex;
+        justify-content: space-around;
+        padding: 1em;
+        border: 2px solid;
+        margin: 1em;
+      }
+      .to{
+        display: flex;
+        justify-content: space-around;
+        padding: 1em;
+        border: 2px solid;
+        margin: 1em;
+      }
+    }
+    .descreption{
+      padding: 2em;
+      padding: 1em;
+      border: 2px solid;
+      margin: 1em;
+      input{
+        width: 100%;
+      }
+    }
+    .pageChange{
+      width: 100%;
+      padding: 1em;
+      border: 2px solid;
+      margin: 1em;
+      display: flex;
+      justify-content: space-between;
+      button{
+
+      }
+    }
+  }
+}
