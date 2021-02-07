@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/my-sheduler/precache-manifest.d4d1289d3417782bfa5ebcd013ffe4da.js"
+  "/my-sheduler/precache-manifest.820cbbe8199aea055b7f3f9fc82583fa.js"
 );
 
 self.addEventListener('message', (event) => {
