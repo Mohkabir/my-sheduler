@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-sheduler/static/css/main.ddf6b361.chunk.css",
-    "main.js": "/my-sheduler/static/js/main.a685b9ec.chunk.js",
-    "main.js.map": "/my-sheduler/static/js/main.a685b9ec.chunk.js.map",
+    "main.css": "/my-sheduler/static/css/main.caabf8a0.chunk.css",
+    "main.js": "/my-sheduler/static/js/main.544080c4.chunk.js",
+    "main.js.map": "/my-sheduler/static/js/main.544080c4.chunk.js.map",
     "runtime-main.js": "/my-sheduler/static/js/runtime-main.3ad47511.js",
     "runtime-main.js.map": "/my-sheduler/static/js/runtime-main.3ad47511.js.map",
     "static/js/2.785555c8.chunk.js": "/my-sheduler/static/js/2.785555c8.chunk.js",
     "static/js/2.785555c8.chunk.js.map": "/my-sheduler/static/js/2.785555c8.chunk.js.map",
     "index.html": "/my-sheduler/index.html",
-    "precache-manifest.820cbbe8199aea055b7f3f9fc82583fa.js": "/my-sheduler/precache-manifest.820cbbe8199aea055b7f3f9fc82583fa.js",
+    "precache-manifest.fd0fb0a4c158fd4dedbee3a5a73ce2d4.js": "/my-sheduler/precache-manifest.fd0fb0a4c158fd4dedbee3a5a73ce2d4.js",
     "service-worker.js": "/my-sheduler/service-worker.js",
-    "static/css/main.ddf6b361.chunk.css.map": "/my-sheduler/static/css/main.ddf6b361.chunk.css.map",
+    "static/css/main.caabf8a0.chunk.css.map": "/my-sheduler/static/css/main.caabf8a0.chunk.css.map",
     "static/js/2.785555c8.chunk.js.LICENSE.txt": "/my-sheduler/static/js/2.785555c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3ad47511.js",
     "static/js/2.785555c8.chunk.js",
-    "static/css/main.ddf6b361.chunk.css",
-    "static/js/main.a685b9ec.chunk.js"
+    "static/css/main.caabf8a0.chunk.css",
+    "static/js/main.544080c4.chunk.js"
   ]
 }
